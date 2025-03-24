@@ -47,8 +47,8 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ixJ-K8A9f7_ucIT52-uX-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-3" value="输入一个长度为n的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="170" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
