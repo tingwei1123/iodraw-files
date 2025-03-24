@@ -52,6 +52,9 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="450" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-22" target="ixJ-K8A9f7_ucIT52-uX-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-22" value="设置一个临时变量&lt;div&gt;index = k&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="500" width="140" height="60" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="530" y="370" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-26" value="k = k + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="360" y="370" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
