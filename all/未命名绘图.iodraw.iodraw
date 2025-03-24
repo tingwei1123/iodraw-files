@@ -41,8 +41,8 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-9" value="left是否小于n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ixJ-K8A9f7_ucIT52-uX-14" value="设未排序区域的下标为[right, n - 1]，其中right初始为left + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="525" width="140" height="60" as="geometry" />
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-14" value="输出处理后的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="500" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
