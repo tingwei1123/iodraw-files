@@ -51,7 +51,10 @@
           <mxGeometry x="190" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-3" value="输入一个长度为n的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="170" width="130" height="60" as="geometry" />
+          <mxGeometry x="185" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="185" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
