@@ -50,6 +50,9 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="378" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
