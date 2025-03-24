@@ -44,7 +44,7 @@
           <mxGeometry x="10" y="500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="378" width="40" height="30" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry x="180" y="500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-23" value="遍历从位置k到位置n的所有数组元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="344" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="360" y="500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-24" value="使index等于大小最小的元素的位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="530" y="500" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-25" value="交换位置index与位置k的元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="530" y="370" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-26" value="k = k + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="370" width="140" height="60" as="geometry" />
