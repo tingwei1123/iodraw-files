@@ -50,11 +50,14 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="10" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-3" target="ixJ-K8A9f7_ucIT52-uX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-3" value="输入一个长度为n的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="80" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-5" value="设未排序区域的下标为[0, left]，其中left初始为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
