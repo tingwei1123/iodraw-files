@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-3" target="ixJ-K8A9f7_ucIT52-uX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-3" value="输入一个长度为n的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="190" width="130" height="60" as="geometry" />
+          <mxGeometry x="185" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-5" target="ixJ-K8A9f7_ucIT52-uX-9">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-5" value="设已排序区域的下标为[0, k]，其中k初始为0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="280" width="140" height="60" as="geometry" />
+          <mxGeometry x="180" y="270" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-9">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
           <mxGeometry x="250" y="450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-22" value="输出处理后的数组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="510" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="510" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
