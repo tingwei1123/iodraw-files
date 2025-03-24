@@ -34,8 +34,8 @@
             <mxPoint x="100" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ixJ-K8A9f7_ucIT52-uX-9" value="k是否小于n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="360" width="80" height="80" as="geometry" />
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-9" value="k是否小于n - 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="360" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ixJ-K8A9f7_ucIT52-uX-14" target="ixJ-K8A9f7_ucIT52-uX-17">
           <mxGeometry relative="1" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="ixJ-K8A9f7_ucIT52-uX-22" value="设置一个临时变量&lt;div&gt;index = k&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="500" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixJ-K8A9f7_ucIT52-uX-23" value="遍历从位置k到位置n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="500" width="140" height="60" as="geometry" />
+        <mxCell id="ixJ-K8A9f7_ucIT52-uX-23" value="遍历从位置k到位置n的所有数组元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="500" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
